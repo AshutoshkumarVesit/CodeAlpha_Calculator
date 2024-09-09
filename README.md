@@ -27,7 +27,7 @@ This project is ideal for anyone looking to:
 ## 🔧 How to Use:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/AshutoshkumarVesit/CodeAlpha_Calculator.git
    ```
 2. Open `index.html` in your browser to start using the calculator.
 
